@@ -90,9 +90,7 @@ a:hover {
 
 #logo {
 	overflow: hidden;
-	/*height: 250px;*/
-	height: 100px;
-	margin: 0px auto;
+	height: 200px;
 }
 
 #logo h1, #logo p {
