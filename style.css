@@ -488,19 +488,18 @@ a:hover {
 }
 
 /* different column */
-#three-column .container{
-	height: 500px;
-}
 
 #three-column .grad_research{
 	float: left;
 	width: 40%;
+	height: 50%;
 	padding-left: 5%;
 	color: black;
 }
 #three-column .under_research{
 	float: right;
 	width: 40%;
+	height: 50%;
 	padding-right: 5%;
 	color: black;
 }
@@ -562,8 +561,8 @@ a:hover {
 
 .box-style .content {
 	overflow: hidden;
-	width: 70%;
-	padding: 15%;
+	width: 80%;
+	padding: 10%;
 	text-align: center;
 }
 
