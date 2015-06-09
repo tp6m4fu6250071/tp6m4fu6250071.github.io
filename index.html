@@ -10,6 +10,22 @@ Version    : 1.0
 Released   : 20130406
 
 -->
+<script type="text/javascript">
+$(function(){
+    $("#gotop").click(function(){
+        jQuery("html,body").animate({
+            scrollTop:0
+        },1000);
+    });
+    $(window).scroll(function() {
+        if ( $(this).scrollTop() > 300){
+            $('#gotop').fadeIn("fast");
+        } else {
+            $('#gotop').stop().fadeOut("fast");
+        }
+    });
+});
+</script>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta name="keywords" content="" />
@@ -20,6 +36,7 @@ Released   : 20130406
 <link href="style.css" rel="stylesheet" type="text/css" media="screen" />
 </head>
 <body>
+<div id="gotop">˄</div>
 <div id="wrapper">
 	<div id="menu-wrapper">
 		<div id="menu" class="container">
