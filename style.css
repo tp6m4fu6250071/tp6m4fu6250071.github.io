@@ -488,16 +488,20 @@ a:hover {
 }
 
 /* different column */
+#three-column .container{
+	height: 50%;
+}
+
 #three-column .grad_research{
 	float: left;
 	width: 40%;
-	padding: 2em;
+	padding-left: 5%;
 	color: black;
 }
 #three-column .under_research{
 	float: right;
 	width: 40%;
-	padding: 5%;
+	padding-right: 5%;
 	color: black;
 }
 
