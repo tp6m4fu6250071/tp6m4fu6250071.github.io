@@ -499,7 +499,7 @@ a:hover {
 }
 
 #learn{
-	float: left;
+	text-align: left;
 	font-weight: 750;
 }
 
