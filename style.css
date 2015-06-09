@@ -498,6 +498,10 @@ a:hover {
 	padding-right: 10%;
 }
 
+#learn{
+	float: left;
+	font-weight: 750;
+}
 
 #three-column .tbox1 {
 	float: left;
