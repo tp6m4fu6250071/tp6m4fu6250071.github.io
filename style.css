@@ -545,7 +545,8 @@ a:hover {
 	padding: 10px 0px;
 	letter-spacing: -1px;
 	font-size: 22px;
-	color: #2D2D2D;
+	/*color: #2D2D2D;*/
+	color: black;
 }
 
 .box-style .image {
