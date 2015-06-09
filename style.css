@@ -191,6 +191,7 @@ a:hover {
 #menu {
 	overflow: hidden;
 	height: 52px;
+	position:fixed; top:0;
 }
 
 #menu ul {
@@ -579,14 +580,3 @@ a:hover {
 }
 
 /* go top */
-#gotop {
-    display: none;
-    position: fixed;
-    right: 20px;
-    bottom: 20px;    
-    padding: 10px 15px;    
-    font-size: 20px;
-    background: #777;
-    color: white;
-    cursor: pointer;
-}
