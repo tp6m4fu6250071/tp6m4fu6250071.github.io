@@ -186,12 +186,12 @@ a:hover {
 	height: 52px;
 	margin-bottom: 2em;
 	background: #000000;
+	position:fixed; top:0;
 }
 
 #menu {
 	overflow: hidden;
 	height: 52px;
-	position:fixed; top:0;
 }
 
 #menu ul {
