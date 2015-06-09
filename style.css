@@ -491,11 +491,13 @@ a:hover {
 	float: left;
 	width: 384px;
 	padding-left: 10%;
+	color: black;
 }
 #three-column .under_research{
 	float: right;
 	width: 384px;
 	padding-right: 10%;
+	color: black;
 }
 
 #learn{
