@@ -490,10 +490,12 @@ a:hover {
 #three-column .grad_research{
 	float: left;
 	width: 384px;
+	padding-left: 10%;
 }
 #three-column .under_research{
 	float: right;
 	width: 384px;
+	padding-right: 10%;
 }
 
 
