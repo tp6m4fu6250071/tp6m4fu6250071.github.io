@@ -516,19 +516,19 @@ a:hover {
 	width: 30%;
 	/*margin-right: 60px;*/
 	margin-right: 5%;
-	height: 50%;
+	height: 60%;
 }
 
 #three-column .tbox2 {
 	float: left;
-	height: 50%;
+	height: 60%;
 	/*width: 384px;*/
 	width: 30%;
 }
 
 #three-column .tbox3 {
 	float: right;
-	height: 50%;
+	height: 60%;
 	/*width: 384px;*/
 	width: 30%;
 }
