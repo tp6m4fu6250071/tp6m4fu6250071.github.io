@@ -512,17 +512,21 @@ a:hover {
 
 #three-column .tbox1 {
 	float: left;
-	width: 384px;
+	/*width: 384px;*/
+	width: 30%;
 	margin-right: 20px;
+	height: 50%;
 }
 
 #three-column .tbox2 {
 	float: left;
+	height: 50%;
 	width: 384px;
 }
 
 #three-column .tbox3 {
 	float: right;
+	height: 50%;
 	width: 384px;
 }
 
