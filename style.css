@@ -513,7 +513,7 @@ a:hover {
 #three-column .tbox1 {
 	float: left;
 	width: 384px;
-	/*margin-right: 20px;*/
+	margin-right: 20px;
 }
 
 #three-column .tbox2 {
